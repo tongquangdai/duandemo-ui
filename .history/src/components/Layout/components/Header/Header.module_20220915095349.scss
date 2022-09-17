@@ -1,0 +1,22 @@
+.wrapper {
+    width: 1200px;
+    padding: 0px 12px;
+    height: 84px;
+}
+.inner {
+    width: 1200px;
+    background-color: #ccc;
+    height: 100%;
+    line-height: 0;
+    margin-right: auto;
+}
+.nav_wrap {
+    display: flex;
+}
+.ul {
+}
+.logo img {
+    width: 104px;
+    height: 40px;
+    padding: calc(15px + (25 - 15) * ((100vw - 320px) / (1920 - 320))) 0px;
+}

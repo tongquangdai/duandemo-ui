@@ -1,0 +1,15 @@
+.wrapper {
+    width: 1400px;
+    padding: 0px 12px;
+    height: 84px;
+}
+.inner {
+    width: 1400px;
+    background-color: #ccc;
+    height: 100%;
+    line-height: 0;
+    margin-right: auto;
+    padding: calc(15px + (25 - 15) * ((100vw - 320px) / (1920 - 320))) 0px;
+}
+.logo {
+}

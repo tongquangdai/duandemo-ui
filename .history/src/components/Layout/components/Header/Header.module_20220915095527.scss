@@ -1,0 +1,24 @@
+.wrapper {
+    width: 1200px;
+    padding: 0px 12px;
+    height: 84px;
+}
+.inner {
+    width: 1200px;
+    background-color: #ccc;
+    height: 100%;
+    line-height: 0;
+    margin-right: auto;
+    padding: calc(15px + (25 - 15) * ((100vw - 320px) / (1920 - 320))) 0px;
+}
+.nav_wrap {
+    position: relative;
+    display: flex;
+}
+.ul {
+}
+.logo img {
+    position: absolute;
+    width: 104px;
+    height: 40px;
+}

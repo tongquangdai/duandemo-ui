@@ -1,0 +1,16 @@
+.wrapper {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 1400px;
+    background-color: #ccc;
+    height: 100%;
+}
+.content {
+    flex: 1;
+    width: 100%;
+    min-height: 1000px;
+}
